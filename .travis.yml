@@ -1,0 +1,1 @@
+script: g++ -Wall -o CPP CPP.cpp
